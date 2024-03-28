@@ -1,0 +1,44 @@
+div{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+table,tr{
+    border: 2px solid black;
+}
+
+.pic1{
+    width: 150px;
+    margin-top: 30px;
+}
+.table{
+    margin-top: 50px;
+}
+.illustration{
+    margin-top:50px;
+}
+nav{
+    position: static;
+    display: flex;
+    justify-content: center;
+    border-bottom: 2px solid gray;
+}
+
+video{
+    margin-left: 10px;
+    position: absolute;
+    top: 150%;
+}    
+.top{
+    position:sticky;
+    color:white;
+    background-color:brown;
+    padding:8px;
+    border-radius: 5%;
+    text-decoration: none;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    bottom: 20px;
+    margin-top: 250vh;
+}
