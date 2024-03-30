@@ -1,0 +1,8 @@
+@media only screen and (1025px <= width >= 1200px){
+    video{    
+        margin-top: 200%;
+    }
+    body{
+        background-color: red;
+    };
+}
